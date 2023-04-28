@@ -486,7 +486,7 @@ img {
 }
 
 .bg-overlay::after {
-    background: #3B0BF7;
+    background: #0A0A0D;
     opacity: 0.95;
     z-index: -1;
 }
@@ -1385,7 +1385,7 @@ header {
 }
 
 .single-price-plan {
-    width: 25%;
+    width: 33%;
     position: relative;
     float: left;
     overflow: hidden;
